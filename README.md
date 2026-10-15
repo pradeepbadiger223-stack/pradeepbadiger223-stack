@@ -11,7 +11,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=pradeepbadiger223-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=pradeepbadiger223-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pradeepbadiger223-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🧩 LeetCode Stats
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/_Pradeep_B?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/_Pradeep_B/)
 ---
 [![](https://komarev.com/ghpvc/?username=pradeepbadiger223-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
